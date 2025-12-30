@@ -1,0 +1,4 @@
+PRIORITYMATCH RESULTS
+---------------------
+B5 matched with G5 | Compatibility Score: 10
+B4 matched with G4 | Compatibility Score: 10
